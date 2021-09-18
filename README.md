@@ -3,7 +3,7 @@
 
 Student 
 
-YouTube 
+YouTuber
 
 Programer 
 
@@ -17,23 +17,23 @@ Learning Ethical Hacking
 ❗I'm kind Until you break trust, heart and my loyalty or devil 2.0 loaded 😈
 
 ❗ I'm only responsible for wot I say, not what you understand  
->❗ You have too Manny lovers 🤍I have too Manny haters 💥
 
-> Launguages I speak Hindi/English
+❗ You have too Manny lovers 🤍I have too Manny haters 💥
 
-> Goa-india 🤍 
+ Launguages I speak Hindi/English
 
-> GMT+5:30 Kolkata
+ Goa-india 🤍 
 
-> 17 y.o. 
+ GMT+5:30 Kolkata
 
-
-
+ 17 y.o. 
 
 
 
-  
-### *Contat Me*
+
+
+
+ ### *Contat Me*
 
 [![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/RN10support)
 
