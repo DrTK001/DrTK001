@@ -44,7 +44,7 @@ C, HTML, shell
 
 
 
-*Contat Me*
+### *Contat Me*
 
 
 
@@ -55,9 +55,5 @@ C, HTML, shell
 [![Youtube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/UCOnT10XSSonfD6O2OPVvJew)
 
 
-
-
-
-
-
-```
+### Buy Me A Coffie
+[![Buy Me A Coffie](https://img.shields.io/badge/Byu%20Me-A%20%20Coffie-9cf)](https://www.buymeacoffee.com/engage)
