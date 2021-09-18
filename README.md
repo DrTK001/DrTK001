@@ -1,9 +1,14 @@
 # *Hey!! This Is Engage LightSpeed*
 ## 🚀 *About Me*
-*Student | YouTube
-| Programer
-| Android Developer
-| Learning Ethical Hacking* |
+*Student | 
+
+YouTube |
+
+Programer |
+
+Android Developer|
+
+Learning Ethical Hacking* |
 
 
 ## *Appendix*
