@@ -13,7 +13,6 @@ Android Developer
 
 Learning Ethical Hacking
 
-
 ```
 ## *Appendix*
 ```
