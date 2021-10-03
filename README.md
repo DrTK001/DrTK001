@@ -17,11 +17,10 @@ Learning Ethical Hacking
 ## *Appendix*
 ```
 
-❗I'm kind Until you break trust, heart and my loyalty or devil 2.0 loaded 😈
 
-❗ I'm only responsible for wot I say, not what you understand  
 
-❗ You have too Manny lovers 🤍I have too Manny haters 💥
+
+
 
 Launguages I speak Hindi/English
 
