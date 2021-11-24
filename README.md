@@ -1,11 +1,11 @@
-## Hey!! This Is Engage LightSpeed
+## Hey!! This is TejasKamat 
 
 ### About Me
 ```
 
 Student 
 
-YouTube
+YouTuber
 
 Programer
 
@@ -16,11 +16,6 @@ Learning Ethical Hacking
 ```
 ## *Appendix*
 ```
-
-
-
-
-
 
 Launguages I speak Hindi/English
 
@@ -47,7 +42,7 @@ C, HTML, shell
 
 
 
-[![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/RN10support)
+[![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/TejasKamat)
 
 [![Telegram ID](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/DrTK001)
 
