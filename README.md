@@ -7,11 +7,8 @@ Student
 
 YouTuber
 
-Programer
+Android custom rom Developer
 
-Android Developer
-
-Learning Ethical Hacking
 
 ```
 ## *Appendix*
@@ -28,12 +25,10 @@ Goa-india 🤍
 
 ##  *Skills*
 ```
-
 c 
 (currently learning html and css)
 
-
- ```
+```
 
 
 
