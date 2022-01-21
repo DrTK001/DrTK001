@@ -26,17 +26,15 @@ Goa-india 🤍
 ##  *Skills*
 ```
 c 
-(currently learning html and css)
 
 ```
-
 
 
 ### *Contat Me*
 
 
 
-[![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/cherish_mojito)
+[![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/octavi_mojito)
 
 [![Telegram ID](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/TejasKamat)
 
