@@ -1,12 +1,13 @@
-## Hey!! This is TejasKamat 
+## Hey!! I'm Tejas Kamat (TejasKamat) 
 
 ### About Me
 ```
 
-Student 
+Student
 
 Android custom rom Developer
 
+noob programmer
 
 ```
 ## *Appendix*
@@ -14,16 +15,18 @@ Android custom rom Developer
 
 Launguages I speak Hindi, English, 
 
-Goa-india 🤍 
+From Goa-india 🤍 
 
 17 y.o.
+
+#KeepEvolving
 
  ```
 
 
 ##  *Skills*
 ```
-c 
+### c and bash
 
 ```
 
