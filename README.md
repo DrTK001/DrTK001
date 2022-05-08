@@ -37,7 +37,7 @@ c and bash
 
 [![Telegram ID](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/TejasKamat)
 
-[![Youtube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/UCOnT10XSSonfD6O2OPVvJew)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-yellowgreen)](https://telegram.me/RN10channel)
 
 ![](https://komarev.com/ghpvc/?username=TejasKamat)
 
