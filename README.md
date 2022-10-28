@@ -42,7 +42,7 @@ c, bash, python, git.
 
 [![Telegram ID](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/RapidFastner)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-yellowgreen)](https://telegram.me/RN10channel)
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20-Channel-yellowgreen)](https://telegram.me/RN10channel)
 
 ![](https://komarev.com/ghpvc/?username=TejasKamat)
 
