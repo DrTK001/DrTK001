@@ -1,39 +1,44 @@
-## Hey!! I'm Tejas Kamat (TejasKamat) 
+## Hey!! I'm Tejas Kamat (RapidFastner) 
 
-### About Me
+### About Me (nothing much hehe hehe)
 ```
 
-Student
+I'm Student, in First Year, Studying Computer Engineering.
 
-Android custom rom Developer
+I love rain and silence.
 
-noob programmer
+I like to write weird/nonsense programmes.
+
+Also I develop in AOSP as a hobby in my part time and build some custom roms/os for android devices.
 
 ```
 ## *Appendix*
 ```
 
-Launguages I speak Hindi, English, 
+Launguages I prefer to speak: Hindi, English. 
 
-From Goa-india 🤍 
+I'm From Goa-india 🤍 
 
-17 y.o.
+I'm 17 years old and my birth-date is 07/07/2005.
 
-#KeepEvolving
+#KeepEvolving supermacy <3
 
  ```
 
 
 ##  *Skills*
 ```
-c and bash
+c, bash, python, git.
 
 ```
 
 
-### *Contat Me*
+### *Contat Me and socials*
+[![Instagram](https://img.shields.io/badge/Telegram%20-Group-blue)](https://www.instagram.com/rapidfastner/)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/RN10group)
+[![SnapChat](https://img.shields.io/badge/Telegram-Channel-yellowgreen)](https://www.snapchat.com/add/rapidfastner?share_id=T1gc-CMOMqY&locale=en-IN)
+
+[![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/mojitosupport)
 
 [![Telegram ID](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/TejasKamat)
 
@@ -41,11 +46,12 @@ c and bash
 
 ![](https://komarev.com/ghpvc/?username=TejasKamat)
 
-### Buy Me A Coffie
+### Donation (donate if you like my work!)
+
 [![Buy Me A Coffie](https://img.shields.io/badge/Byu%20Me-A%20%20Coffie-9cf)](https://www.buymeacoffee.com/engage)
 
-UPI:
+For Indian users(UPI):
 ```
-kamattejas23@okaxis
+kamattejas23@okicici
 
 ```
