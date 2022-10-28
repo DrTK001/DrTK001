@@ -34,9 +34,9 @@ c, bash, python, git.
 
 
 ### *Contat Me and socials*
-[![Instagram](https://img.shields.io/badge/Telegram%20-Group-blue)](https://www.instagram.com/rapidfastner/)
+[![Instagram](https://img.shields.io/badge/Instagram-ID-brightgreen)](https://www.instagram.com/rapidfastner/)
 
-[![SnapChat](https://img.shields.io/badge/Telegram-Channel-yellowgreen)](https://www.snapchat.com/add/rapidfastner?share_id=T1gc-CMOMqY&locale=en-IN)
+[![SnapChat](https://img.shields.io/badge/SnapChat-ID-yellow)](https://www.snapchat.com/add/rapidfastner?share_id=T1gc-CMOMqY&locale=en-IN)
 
 [![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/mojitosupport)
 
