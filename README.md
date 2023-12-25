@@ -9,17 +9,9 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCzbxOL6CCswhGTmicUty4sA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCzbxOL6CCswhGTmicUty4sA#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/tejaskamat#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/tejaskamat#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tejas-kamat-86659b2a6/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tejas-kamat-86659b2a6/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/rapidfastner/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/rapidfastner/#gh-dark-mode-only)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-kamat-86659b2a6/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rapidfastner)
 
 ### Languages and Tools:
 
