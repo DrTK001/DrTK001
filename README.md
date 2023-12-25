@@ -3,7 +3,7 @@
 ### About Me (nothing much hehe hehe)
 ```
 
-I'm Student, in First Year, Studying Computer Engineering.
+I'm Student, in Second Year, Studying Computer Engineering.
 
 I love rain and silence.
 
@@ -19,7 +19,7 @@ Launguages I prefer to speak: Hindi, English.
 
 I'm From Goa-india 🤍 
 
-I'm 17 years old and my birth-date is 07/07/2005.
+I'm 18 years old.
 
 #KeepEvolving supermacy <3
 
@@ -28,7 +28,7 @@ I'm 17 years old and my birth-date is 07/07/2005.
 
 ##  *Skills*
 ```
-c, bash, python, git.
+c, html, css, java, javascript, bash, python, git.
 
 ```
 
@@ -52,6 +52,6 @@ c, bash, python, git.
 
 For Indian users(UPI):
 ```
-kamattejas23@okicici
+ritesh.kamat@paytm
 
 ```
