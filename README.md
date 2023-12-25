@@ -1,17 +1,19 @@
-# Hey!! I'm Tejas Kamat (RapidFastner) 
+# Hey!! I'm Tejas Kamat (RapidFastner) Developer, Designer, Programmer and Student!!
 
-## I'm a Developer, Designer, Programmer and Student!!
-
+## About me !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Learn more about oop, web designing and database
 - ⚡ Fun fact: I love to watch anime, write weird codes, fix/break stuffs.
 
+
 ### Connect with me:
+
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-kamat-86659b2a6/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rapidfastner)
+
 
 ### Languages and Tools:
 
